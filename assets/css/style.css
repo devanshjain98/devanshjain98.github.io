@@ -10620,8 +10620,8 @@ div#featured-project-carousel {
           transition: var(--transition);
           font-weight: 500; }
     .personal-experience-inner .experience-list .resume-single-list .inner p {
-      font-size: 18px;
-      line-height: 28px;
+      font-size: 12px;
+      line-height: 18px;
       color: var(--color-body);
       transition: var(--transition); }
     .personal-experience-inner .experience-list .resume-single-list .inner.psudo-after-none::after {
@@ -10791,7 +10791,8 @@ div#featured-project-carousel {
     border-radius: 10px;
     padding: 3px;
     background: #212428;
-    box-shadow: inset 8px 8px 16px #00000075,  inset -8px -8px 16px #383e4575; }
+    box-shadow: inset 8px 8px 16px #00000075, 
+ inset -8px -8px 16px #383e4575; }
     .progress-charts .progress .progress-bar {
       overflow: visible;
       position: relative;
